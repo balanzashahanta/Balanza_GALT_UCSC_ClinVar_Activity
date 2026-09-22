@@ -25,6 +25,10 @@ The **GALT** gene was located using the **UCSC Genome Browser** with the human *
 | **DNA strand** | **Positive (+) strand** |
 | **Approximate gene size** | **4,361 bp (~4.36 kb)** |
 
+<img width="1765" height="1232" alt="image" src="https://github.com/user-attachments/assets/950b5efc-8c3a-43bd-843b-3b28bb77c39d" />
+
+**Figure 1.** UCSC Genome Browser showing the genomic location of the human **GALT** gene on chromosome 9.
+
 ## 3. Exons, Introns, and Transcripts
 
 ## 4. UCSC Annotation Tracks
