@@ -103,6 +103,33 @@ The selected ClinVar variant is the **GALT c.563A>G (p.Gln188Arg)** variant, als
 
 ## 6. Locating the Variant in UCSC
 
+The selected ClinVar variant **NM_000155.4(GALT):c.563A>G (p.Gln188Arg)** was located in the UCSC Genome Browser using the GRCh38 genomic coordinate **chr9:34648170**.
+
+### a. Where is the variant located relative to your gene?
+
+The variant is located **within the GALT gene** at **chr9:34648170 (GRCh38)**.
+
+### b. Is it in an exon, intron, UTR, splice region, or another region?
+
+The variant is located in an **exon** of the GALT gene. ClinVar identifies the variant as occurring in **exon 6**.
+
+### c. Is it likely in a coding or non-coding region?
+
+The variant is likely in a **coding region**. The UCSC view shows **Q188** in the GALT protein annotation, consistent with the variant affecting amino acid 188.
+
+### d. Based on its location and ClinVar information, how might the variant affect the gene or gene product?
+
+The variant changes **c.563A>G**, resulting in the amino-acid substitution **p.Gln188Arg (Q188R)**. Because it changes an amino acid in the GALT protein and is classified as **pathogenic for galactosemia in ClinVar**, it may alter GALT protein function.
+
+### e. What additional evidence would be needed before concluding that the variant causes disease?
+
+Additional evidence could include **functional studies showing reduced GALT enzyme activity, observations in affected individuals, genetic segregation data, and population-frequency data**. These types of evidence help establish whether the variant has a disease-causing effect rather than relying only on its genomic location.
+
+
+![Figure 5 - GALT variant in UCSC](images/05_variant_in_ucsc.png)
+
+**Figure 5.** GALT gene model showing the selected ClinVar variant in UCSC Genome Browser.
+
 ## 7. Interpretation
 
 ## 8. Reflection
