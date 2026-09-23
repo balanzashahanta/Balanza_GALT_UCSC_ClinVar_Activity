@@ -77,8 +77,29 @@ Strong conservation suggests that a DNA region may have an important biological 
 
 **Figure 3.** GALT gene with ClinVar and conservation tracks in UCSC Genome Browser.
 
-
 ## 5. Selected ClinVar Variant
+
+The selected ClinVar variant is the **GALT c.563A>G (p.Gln188Arg)** variant, also known as **Q188R**, associated with galactosemia.
+
+| Variant Information | Result |
+|---|---|
+| Gene | **GALT** |
+| HGVS notation | **NM_000155.4(GALT):c.563A>G (p.Gln188Arg)** |
+| rsID | **rs75391579** |
+| ClinVar Variation ID | **3614** |
+| Chromosome | **Chromosome 9** |
+| Genomic position | **Chr9:34648170 (GRCh38)** |
+| Condition | **Galactosemia** |
+| Clinical significance | **Pathogenic** |
+| Review status | **Criteria provided, multiple submitters, no conflicts** |
+| ClinVar accession | **RCV000825563.20** |
+
+
+![Figure 4 - ClinVar record for GALT Q188R](images/04_clinvar_variant.png)
+
+**Figure 4.** ClinVar record for the **GALT c.563A>G (p.Gln188Arg)** variant associated with galactosemia.
+
+**ClinVar:** https://www.ncbi.nlm.nih.gov/clinvar/RCV000825563/
 
 ## 6. Locating the Variant in UCSC
 
