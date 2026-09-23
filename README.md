@@ -9,7 +9,17 @@
 
 This activity investigates the human **GALT** gene using the **UCSC Genome Browser** and **NCBI ClinVar**. The activity focuses on locating the GALT gene in the human genome, examining its exon-intron structure and transcripts, exploring genome annotation and clinical variant tracks, and investigating a clinically reported GALT variant.
 
+### Activity Workflow
+
+1. Located the **GALT** gene in the UCSC Genome Browser using the **GRCh38/hg38** assembly.
+2. Examined the **exon-intron structure and transcript models** using the GENCODE and NCBI RefSeq tracks.
+3. Enabled the **ClinVar** and **conservation** tracks to examine clinical variants and conserved regions.
+4. Selected the **GALT c.563A>G (p.Gln188Arg/Q188R)** variant from ClinVar.
+5. Used the GRCh38 genomic coordinate **chr9:34648170** to locate the selected variant in UCSC.
+6. Compared the variant location with the GALT gene model and interpreted its possible effect using the available genomic and clinical information.
+
 ## 1. Assigned Gene and Disease
+The assigned gene is **GALT (galactose-1-phosphate uridylyltransferase)**, and the associated disease is **Classic Galactosemia**.
 
 ## 2. UCSC Gene Location
 
@@ -132,6 +142,29 @@ Additional evidence could include **functional studies showing reduced GALT enzy
 
 ## 7. Interpretation
 
+The selected **GALT c.563A>G (p.Gln188Arg)** variant is located within an **exon and coding region** of the GALT gene. Its location corresponds to the **Q188** amino-acid position in the GALT protein, and ClinVar classifies the variant as **pathogenic** for galactosemia. However, genomic location alone is not sufficient to determine the complete biological effect of a variant, so functional and clinical evidence are also important.
+
 ## 8. Reflection
 
+### 1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+
+UCSC showed me the actual **genomic structure and location of the GALT gene**, including its exons, introns, transcripts, and nearby genetic variants. It also allowed me to see how the gene is positioned on chromosome 9 and how different regions are conserved across species.
+
+### 2. Why is knowing the exact genomic location of a disease-associated variant useful?
+
+Knowing the exact genomic location helps determine where the variant occurs within the gene, such as in an exon, intron, or coding region. It also makes it easier to connect the variant to gene annotations and other genomic evidence.
+
+### 3. What is one limitation of predicting a variant's effect only from its genomic location?
+
+The location of a variant alone does not show exactly how it affects the gene or protein. Additional evidence, such as functional studies, clinical observations, and genetic data, is needed to determine its actual effect.
+
+### 4. What was the most interesting feature you observed about your assigned gene?
+
+The most interesting feature I observed was the presence of many **ClinVar variants** within the GALT gene region. I also found it interesting that the conservation track showed regions of different conservation levels across vertebrate species.
+
 ## 9. References and Links
+
+- **UCSC Genome Browser:** https://genome.ucsc.edu/
+- **NCBI ClinVar:** https://www.ncbi.nlm.nih.gov/clinvar/
+- **NCBI Gene – GALT:** https://www.ncbi.nlm.nih.gov/gene/2592
+- **NCBI ClinVar – GALT c.563A>G (p.Gln188Arg):** https://www.ncbi.nlm.nih.gov/clinvar/RCV000825563/
